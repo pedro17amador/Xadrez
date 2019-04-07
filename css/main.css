@@ -1,0 +1,551 @@
+.quadrado{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado2{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado3{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado4{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado5{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado6{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado7{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado8{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado9{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado10{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.mover{
+	position:absolute;
+	left:57px;
+	top:8px;	
+}
+.quadrado11{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado12{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado13{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado14{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado15{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado16{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado17{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado18{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado19{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado20{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.mover1{
+	position:absolute;
+	left:105px;
+	top:8px;	
+}
+.quadrado21{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado22{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado23{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado24{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado25{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado26{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado27{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado28{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado29{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado30{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.mover2{
+	position:absolute;
+	left:150px;
+	top:8px;	
+}
+.quadrado31{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado32{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado33{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado34{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado35{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado36{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado37{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado38{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado39{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado40{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.mover3{
+	position:absolute;
+	left:200px;
+	top:8px;	
+}
+.quadrado41{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado42{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado43{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado44{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado45{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado46{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado47{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado48{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado49{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado50{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.mover4{
+	position:absolute;
+	left:250px;
+	top:8px;	
+}
+.quadrado51{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado52{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado53{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado54{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado55{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado56{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado57{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado58{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado59{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado60{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.mover5{
+	position:absolute;
+	left:300px;
+	top:8px;	
+}
+.quadrado61{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado62{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado63{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado64{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado65{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado66{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado67{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado68{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado69{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado70{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.mover6{
+	position:absolute;
+	left:150px;
+	top:8px;	
+}
+.quadrado71{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado72{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado73{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado74{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado75{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado76{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado77{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado78{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado79{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado80{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.mover7{
+	position:absolute;
+	left:200px;
+	top:8px;	
+}
+.quadrado81{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado82{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado83{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado84{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado85{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado86{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado87{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado88{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado89{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado90{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.mover8{
+	position:absolute;
+	left:250px;
+	top:8px;	
+}
+.quadrado91{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado92{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado93{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado94{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado95{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado96{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado97{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado98{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.quadrado99{
+	width: 50px;
+	height: 50px;
+	background-color:blue
+}
+.quadrado100{
+	width: 50px;
+	height: 50px;
+	background-color:black
+}
+.mae{position:absolute;
+	left:200px;
+	top:0px;
+	
+}
+
